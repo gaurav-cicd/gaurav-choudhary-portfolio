@@ -197,10 +197,3 @@ I'm always excited to connect with fellow **DevOps engineers**, **cloud architec
 
 </div>
 
----
-
-<div align="center">
-
-**⚡ Fun Fact:** When I'm not optimizing cloud infrastructure, you'll find me exploring the latest in **AI/ML integration with DevOps**, practicing **yoga and meditation**, or capturing moments through **travel photography**! 📸🧘‍♂️
-
-</div>
