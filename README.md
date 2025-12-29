@@ -139,6 +139,12 @@ I'm **Gaurav Choudhary** — a **Senior DevOps Engineer** with **7+ years** of h
 ![Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Control Tower](https://img.shields.io/badge/AWS_Control_Tower-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Organizations](https://img.shields.io/badge/AWS_Organizations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/AWS_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FSx](https://img.shields.io/badge/Amazon_FSx-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Backup](https://img.shields.io/badge/AWS_Backup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔄 **Cloud Migration Tools**
 ![AWS MGN](https://img.shields.io/badge/AWS_Application_Migration_Service-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -148,8 +154,6 @@ I'm **Gaurav Choudhary** — a **Senior DevOps Engineer** with **7+ years** of h
 ![VM Import/Export](https://img.shields.io/badge/VM_Import_Export-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📊 **Monitoring & Observability**
-![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Brinqa](https://img.shields.io/badge/Brinqa-FF6B35?style=for-the-badge&logoColor=white)
