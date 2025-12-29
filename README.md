@@ -13,20 +13,6 @@ Modern, professional, and comprehensive DevOps portfolio
   </a>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=gauravchoudhary&label=Profile%20views&style=flat&color=0e75b6">
-    <img src="https://komarev.com/ghpvc/?username=gauravchoudhary&label=Profile%20views&style=flat&color=0e75b6" alt="profile views" />
-  </a>
-  <a href="https://github.com/gauravchoudhary?tab=followers">
-    <img src="https://img.shields.io/github/followers/gauravchoudhary?label=Followers&style=flat&color=0e75b6" alt="followers" />
-  </a>
-  <a href="https://github.com/gauravchoudhary?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-View%20All-blue?style=flat&color=0e75b6" alt="repos" />
-  </a>
-  <a href="https://github.com/gauravchoudhary?tab=stars">
-    <img src="https://img.shields.io/github/stars/gauravchoudhary?label=Stars&style=flat&color=0e75b6" alt="stars" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/gaurav-choudhary-70843b181">
