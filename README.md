@@ -57,28 +57,28 @@ I'm **Gaurav Choudhary** — a **Senior DevOps Engineer** with **7+ years** of h
 
 ## 💼 Professional Experience
 
-### <img src="https://logo.clearbit.com/rackspace.com" width="20" height="20" alt="Rackspace"/> **Rackspace Technology** | *Professional Services Delivery Engineer - DevOps*
+### 🔹 **Rackspace Technology** | *Professional Services Delivery Engineer - DevOps*
 **Apr 2025 - Present** | *Bangalore, India*
 - 🚀 Designing and maintaining **CI/CD pipelines** using Jenkins, Bitbucket, JFrog, SonarQube
 - ☁️ Executing **cloud migration activities** with AWS DMS, MGN, Cloud Migration Factory
 - 🏗️ **Infrastructure provisioning** using Terraform, Terragrunt, and Packer for scalable environments
 - 📚 Optimizing **DevOps workflows** and documenting best practices for team alignment
 
-### <img src="https://logo.clearbit.com/cognizant.com" width="20" height="20" alt="Cognizant"/> **Cognizant Technology Solutions** | *Senior AWS DevOps Engineer*
+### 🔹 **Cognizant Technology Solutions** | *Senior AWS DevOps Engineer*
 **Apr 2024 - Apr 2025** | *Bangalore, India*
 - 🌊 Led **migration and transformation** of on-premises Data Centers and MS Azure workloads to AWS
 - 🤖 Automated **AWS infrastructure provisioning** using Terraform and Landing Zone creation
 - 📊 Enhanced **observability** through CloudWatch, Datadog, and Splunk for proactive monitoring
 - 🔄 Managed **cloud migrations** using AWS MGN, DMS, CMF, and DataSync with minimal downtime
 
-### <img src="https://logo.clearbit.com/ibm.com" width="20" height="20" alt="IBM"/> **IBM India Private Limited** | *AWS DevOps Specialist*
+### 🔹 **IBM India Private Limited** | *AWS DevOps Specialist*
 **May 2023 - Apr 2024** | *Bangalore, India*
 - 🔧 Built and managed **CI/CD pipelines** with Jenkins, Bitbucket, JFrog, SonarQube, Ansible
 - 🐳 Configured **ECS clusters** ensuring optimized container orchestration
 - 🛡️ Improved **observability and security** with CloudWatch, Brinqa, Splunk, IAM policies
 - 🔒 Integrated **Secrets Manager** and security best practices across infrastructure
 
-### <img src="https://logo.clearbit.com/wipro.com" width="20" height="20" alt="Wipro"/> **Wipro Limited** | *Senior DevOps Engineer*
+### 🔹 **Wipro Limited** | *Senior DevOps Engineer*
 **Oct 2018 - May 2023** | *Chennai, India*
 - 🚂 Developed **Jenkins pipelines** using Groovy declarative approach for CI/CD automation
 - 🔴 Configured and deployed **Red Hat OpenShift (ROSA)** clusters on AWS for IBM applications
