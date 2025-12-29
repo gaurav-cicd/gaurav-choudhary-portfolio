@@ -19,7 +19,7 @@ Modern, professional, and comprehensive DevOps portfolio
     <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gaurav.chy@yahoo.com">
-    <img src="https://img.shields.io/badge/email-gaurav.chy%40yahoo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/email-gaurav.chy%40yahoo.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="tel:+918210357645">
     <img src="https://img.shields.io/badge/Phone-%2B91%208210357645-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
@@ -188,7 +188,7 @@ I'm always excited to connect with fellow **DevOps engineers**, **cloud architec
 **Feel free to reach out!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-choudhary-70843b181)
-[![Email](https://img.shields.io/badge/email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurav.chy@yahoo.com)
+[![email](https://img.shields.io/badge/email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gaurav.chy@yahoo.com)
 [![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918210357645)
 
 </div>
