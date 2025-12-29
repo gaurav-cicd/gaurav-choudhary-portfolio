@@ -118,31 +118,37 @@ I'm **Gaurav Choudhary** — a **Senior DevOps Engineer** with **7+ years** of h
 ![ROSA on AWS](https://img.shields.io/badge/ROSA_on_AWS-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
 
-### ☁️ **AWS Services**
-![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![KMS](https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ☁️ **AWS Core Services**
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![VPC](https://img.shields.io/badge/Amazon_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Auto Scaling](https://img.shields.io/badge/AWS_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ALB](https://img.shields.io/badge/AWS_ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white)
-![SNS](https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white)
-![WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF9900?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
-![Systems Manager](https://img.shields.io/badge/AWS_Systems_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/Amazon_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔐 **AWS Security & Governance**
+![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![FSx](https://img.shields.io/badge/Amazon_FSx-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EBS](https://img.shields.io/badge/Amazon_EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EFS](https://img.shields.io/badge/Amazon_EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Backup](https://img.shields.io/badge/AWS_Backup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ElastiCache](https://img.shields.io/badge/Amazon_ElastiCache-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Control Tower](https://img.shields.io/badge/AWS_Control_Tower-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Organizations](https://img.shields.io/badge/AWS_Organizations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🌐 **AWS Networking & Content Delivery**
+![ALB](https://img.shields.io/badge/AWS_ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF9900?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 💾 **AWS Storage & Database**
+![EBS](https://img.shields.io/badge/Amazon_EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EFS](https://img.shields.io/badge/Amazon_EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FSx](https://img.shields.io/badge/Amazon_FSx-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/Amazon_ElastiCache-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔔 **AWS Integration & Management**
+![SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white)
+![SNS](https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white)
+![EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/AWS_Systems_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/AWS_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔄 **Cloud Migration Tools**
 ![AWS MGN](https://img.shields.io/badge/AWS_Application_Migration_Service-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
