@@ -1,0 +1,339 @@
+/* Modern Welcome Page Styles for Gaurav Choudhary Portfolio */
+
+/* CSS Reset and Base Styles */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Animated Background Particles */
+body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image:
+    radial-gradient(circle at 20% 80%, rgba(120, 119, 198, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(255, 119, 198, 0.3) 0%, transparent 50%),
+    radial-gradient(circle at 40% 40%, rgba(120, 219, 255, 0.3) 0%, transparent 50%);
+  animation: backgroundShift 20s ease-in-out infinite;
+  z-index: 1;
+}
+
+/* Main Container */
+.welcome-container {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  padding: 2rem;
+}
+
+.welcome-content {
+  position: relative;
+}
+
+/* Neon Button */
+.neon-button {
+  position: relative;
+  display: inline-block;
+  padding: 3rem 4rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.neon-button:hover {
+  color: #fff;
+  background: rgba(33, 150, 243, 0.1);
+  box-shadow:
+    0 0 20px rgba(33, 150, 243, 0.5),
+    0 0 40px rgba(33, 150, 243, 0.3),
+    0 0 80px rgba(33, 150, 243, 0.2);
+  transform: translateY(-5px);
+}
+
+/* Border Animations */
+.border-animation {
+  position: absolute;
+  display: block;
+}
+
+/* Top Border */
+.border-animation:nth-child(1) {
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, transparent, #00ff41, transparent);
+  animation: borderTop 3s linear infinite;
+}
+
+/* Right Border */
+.border-animation:nth-child(2) {
+  top: -100%;
+  right: 0;
+  width: 3px;
+  height: 100%;
+  background: linear-gradient(180deg, transparent, #ff0040, transparent);
+  animation: borderRight 3s linear infinite 0.75s;
+}
+
+/* Bottom Border */
+.border-animation:nth-child(3) {
+  bottom: 0;
+  right: -100%;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(270deg, transparent, #ff6b00, transparent);
+  animation: borderBottom 3s linear infinite 1.5s;
+}
+
+/* Left Border */
+.border-animation:nth-child(4) {
+  bottom: -100%;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  background: linear-gradient(360deg, transparent, #2196f3, transparent);
+  animation: borderLeft 3s linear infinite 2.25s;
+}
+
+/* Button Content */
+.button-content h1 {
+  font-size: clamp(1.5rem, 4vw, 3rem);
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #fff;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+.button-content .subtitle {
+  font-size: clamp(1rem, 2.5vw, 1.5rem);
+  color: #ffd700;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.button-content .cta {
+  font-size: clamp(0.9rem, 2vw, 1.2rem);
+  color: #e0e0e0;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+/* Floating Tech Icons */
+.tech-icons {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.floating-icon {
+  position: absolute;
+  padding: 0.5rem 1rem;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 25px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #fff;
+  backdrop-filter: blur(5px);
+  animation: float 6s ease-in-out infinite;
+}
+
+.floating-icon.aws {
+  top: 15%;
+  left: 10%;
+  animation-delay: 0s;
+  color: #ff9900;
+}
+
+.floating-icon.terraform {
+  top: 25%;
+  right: 15%;
+  animation-delay: 1.2s;
+  color: #623ce4;
+}
+
+.floating-icon.k8s {
+  bottom: 30%;
+  left: 15%;
+  animation-delay: 2.4s;
+  color: #326ce5;
+}
+
+.floating-icon.docker {
+  bottom: 20%;
+  right: 20%;
+  animation-delay: 3.6s;
+  color: #2496ed;
+}
+
+.floating-icon.jenkins {
+  top: 40%;
+  left: 5%;
+  animation-delay: 4.8s;
+  color: #d33833;
+}
+
+/* Keyframe Animations */
+@keyframes borderTop {
+  0% { left: -100%; }
+  50%, 100% { left: 100%; }
+}
+
+@keyframes borderRight {
+  0% { top: -100%; }
+  50%, 100% { top: 100%; }
+}
+
+@keyframes borderBottom {
+  0% { right: -100%; }
+  50%, 100% { right: 100%; }
+}
+
+@keyframes borderLeft {
+  0% { bottom: -100%; }
+  50%, 100% { bottom: 100%; }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+    opacity: 0.7;
+  }
+  25% {
+    transform: translateY(-20px) rotate(1deg);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(-10px) rotate(-0.5deg);
+    opacity: 0.8;
+  }
+  75% {
+    transform: translateY(-15px) rotate(0.5deg);
+    opacity: 0.9;
+  }
+}
+
+@keyframes backgroundShift {
+  0%, 100% {
+    transform: translateX(0%) translateY(0%);
+  }
+  25% {
+    transform: translateX(-5%) translateY(-10%);
+  }
+  50% {
+    transform: translateX(-10%) translateY(5%);
+  }
+  75% {
+    transform: translateX(5%) translateY(-5%);
+  }
+}
+
+/* Hover Effects for Border Animation */
+.neon-button:hover .border-animation:nth-child(1) {
+  animation-duration: 1s;
+}
+
+.neon-button:hover .border-animation:nth-child(2) {
+  animation-duration: 1s;
+  animation-delay: 0.25s;
+}
+
+.neon-button:hover .border-animation:nth-child(3) {
+  animation-duration: 1s;
+  animation-delay: 0.5s;
+}
+
+.neon-button:hover .border-animation:nth-child(4) {
+  animation-duration: 1s;
+  animation-delay: 0.75s;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .neon-button {
+    padding: 2rem 3rem;
+    letter-spacing: 2px;
+  }
+
+  .floating-icon {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .tech-icons {
+    display: none; /* Hide floating icons on small screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .welcome-container {
+    padding: 1rem;
+  }
+
+  .neon-button {
+    padding: 1.5rem 2rem;
+    letter-spacing: 1px;
+  }
+
+  .button-content h1 {
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .border-animation,
+  .floating-icon,
+  body::before {
+    animation: none;
+  }
+
+  .neon-button:hover {
+    transform: none;
+  }
+}
+
+/* Focus Styles */
+.neon-button:focus {
+  outline: 2px solid #ffd700;
+  outline-offset: 4px;
+}
+
+/* Performance Optimizations */
+.neon-button,
+.floating-icon,
+.border-animation {
+  will-change: transform;
+}
+
+body::before {
+  will-change: transform;
+}
