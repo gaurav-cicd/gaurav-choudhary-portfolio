@@ -95,22 +95,69 @@ I'm **Gaurav Choudhary** — a **Senior DevOps Engineer** with **7+ years** of h
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🔧 **DevOps & Infrastructure**
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+### 🔧 **DevOps Tools & Infrastructure**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![BitBucket](https://img.shields.io/badge/Bitbucket-0047AB?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
+![XL Release](https://img.shields.io/badge/XL_Release-FF6600?style=for-the-badge&logoColor=white)
+![XL Deploy](https://img.shields.io/badge/XL_Deploy-FF6600?style=for-the-badge&logoColor=white)
+
+### 🏗️ **Infrastructure as Code (IaC)**
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-623CE4?style=for-the-badge&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🐳 **Containerization & Orchestration**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+![ROSA on AWS](https://img.shields.io/badge/ROSA_on_AWS-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
 
+### ☁️ **AWS Services**
+![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/AWS_KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![VPC](https://img.shields.io/badge/Amazon_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/AWS_Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/AWS_ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![SQS](https://img.shields.io/badge/Amazon_SQS-FF9900?style=for-the-badge&logo=amazon-sqs&logoColor=white)
+![SNS](https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white)
+![WAF](https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/Amazon_CloudFront-FF9900?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
+![Systems Manager](https://img.shields.io/badge/AWS_Systems_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![FSx](https://img.shields.io/badge/Amazon_FSx-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EBS](https://img.shields.io/badge/Amazon_EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EFS](https://img.shields.io/badge/Amazon_EFS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/Amazon_EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Backup](https://img.shields.io/badge/AWS_Backup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/Amazon_ElastiCache-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Control Tower](https://img.shields.io/badge/AWS_Control_Tower-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Organizations](https://img.shields.io/badge/AWS_Organizations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔄 **Cloud Migration Tools**
+![AWS MGN](https://img.shields.io/badge/AWS_Application_Migration_Service-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS DataSync](https://img.shields.io/badge/AWS_DataSync-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS DMS](https://img.shields.io/badge/AWS_Database_Migration_Service-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS CMF](https://img.shields.io/badge/AWS_Cloud_Migration_Factory-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VM Import/Export](https://img.shields.io/badge/VM_Import_Export-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ### 📊 **Monitoring & Observability**
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Brinqa](https://img.shields.io/badge/Brinqa-FF6B35?style=for-the-badge&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=for-the-badge&logo=crowdstrike&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
 
@@ -119,10 +166,11 @@ I'm **Gaurav Choudhary** — a **Senior DevOps Engineer** with **7+ years** of h
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
 
-### 🗄️ **Databases & Storage**
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![ElastiCache](https://img.shields.io/badge/ElastiCache-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+### 🖥️ **Operating Systems**
+![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
