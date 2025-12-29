@@ -15,6 +15,9 @@ Modern, professional, and comprehensive DevOps portfolio
 
 
 <p align="center">
+  <a href="https://github.com/gaurav-cicd?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-View%20All-333333?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
   <a href="https://linkedin.com/in/gaurav-choudhary-70843b181">
     <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
