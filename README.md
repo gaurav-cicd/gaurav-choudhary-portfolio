@@ -193,7 +193,5 @@ I'm always excited to connect with fellow **DevOps engineers**, **cloud architec
 
 **🌟 Open to new opportunities in DevOps, Cloud Architecture, and Platform Engineering**
 
-<img src="https://capsule-render.vercel.app/api?type=waving§ion=footer&color=gradient&customColorList=10" alt="footer" />
-
 </div>
 
